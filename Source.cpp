@@ -20,8 +20,12 @@ int main()
 		cout << "Hello World!" << endl;
 		++i;
 	}
+	cout << endl;
+
 	cout << "Poem:" << endl;
 	cout << "I caught a big fish, Now I search for a friend, to share my lunch with." << endl;
+	cout << endl;
+
 	cout << "Game Description:" << endl;
 	cout << "The World's greatest roleplaying game." << endl;
 		return 0;
