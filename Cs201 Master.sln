@@ -7,6 +7,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Hw0", "Hw0.vcxproj", "{60DD
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Colats", "..\Colats\Colats.vcxproj", "{1183E14B-EE5E-4751-8981-73FB5CCE0FC3}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Homework3", "..\Homework3\Homework3.vcxproj", "{268FCAD9-F63C-4002-BBCB-EE894A319ECE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework 3 Master", "Homework 3 Master", "{4A8D5E49-644F-41CD-B9FE-B6468371F9B1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,9 +35,21 @@ Global
 		{1183E14B-EE5E-4751-8981-73FB5CCE0FC3}.Release|x64.Build.0 = Release|x64
 		{1183E14B-EE5E-4751-8981-73FB5CCE0FC3}.Release|x86.ActiveCfg = Release|Win32
 		{1183E14B-EE5E-4751-8981-73FB5CCE0FC3}.Release|x86.Build.0 = Release|Win32
+		{268FCAD9-F63C-4002-BBCB-EE894A319ECE}.Debug|x64.ActiveCfg = Debug|x64
+		{268FCAD9-F63C-4002-BBCB-EE894A319ECE}.Debug|x64.Build.0 = Debug|x64
+		{268FCAD9-F63C-4002-BBCB-EE894A319ECE}.Debug|x86.ActiveCfg = Debug|Win32
+		{268FCAD9-F63C-4002-BBCB-EE894A319ECE}.Debug|x86.Build.0 = Debug|Win32
+		{268FCAD9-F63C-4002-BBCB-EE894A319ECE}.Release|x64.ActiveCfg = Release|x64
+		{268FCAD9-F63C-4002-BBCB-EE894A319ECE}.Release|x64.Build.0 = Release|x64
+		{268FCAD9-F63C-4002-BBCB-EE894A319ECE}.Release|x86.ActiveCfg = Release|Win32
+		{268FCAD9-F63C-4002-BBCB-EE894A319ECE}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{1183E14B-EE5E-4751-8981-73FB5CCE0FC3} = {4A8D5E49-644F-41CD-B9FE-B6468371F9B1}
+		{268FCAD9-F63C-4002-BBCB-EE894A319ECE} = {4A8D5E49-644F-41CD-B9FE-B6468371F9B1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FBEEA381-CDFF-49AE-A22E-CA30B2498C24}
