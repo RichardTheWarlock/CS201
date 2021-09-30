@@ -11,6 +11,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Homework3", "..\Homework3\H
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework 3 Master", "Homework 3 Master", "{4A8D5E49-644F-41CD-B9FE-B6468371F9B1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework 0 Master", "Homework 0 Master", "{691F52D3-B176-403F-9389-1CB707A4F41C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -48,6 +50,7 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{60DD0112-F2A2-446F-A3ED-0179629FBEFE} = {691F52D3-B176-403F-9389-1CB707A4F41C}
 		{1183E14B-EE5E-4751-8981-73FB5CCE0FC3} = {4A8D5E49-644F-41CD-B9FE-B6468371F9B1}
 		{268FCAD9-F63C-4002-BBCB-EE894A319ECE} = {4A8D5E49-644F-41CD-B9FE-B6468371F9B1}
 	EndGlobalSection
