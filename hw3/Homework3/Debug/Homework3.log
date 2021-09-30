@@ -1,0 +1,7 @@
+﻿  boxer.cpp
+C:\Users\Richard\source\repos\Homework3\boxer.cpp(39,25): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Richard\source\repos\Homework3\boxer.cpp(53,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Richard\source\repos\Homework3\boxer.cpp(78,24): warning C4018: '<': signed/unsigned mismatch
+  boxprint.cpp
+  Generating Code...
+  Homework3.vcxproj -> C:\Users\Richard\source\repos\Homework3\Debug\Homework3.exe
