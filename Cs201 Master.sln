@@ -13,6 +13,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework 3 Master", "Homewo
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Homework 0 Master", "Homework 0 Master", "{691F52D3-B176-403F-9389-1CB707A4F41C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Quadratic", "..\Quadratic\Quadratic.vcxproj", "{76FB5F06-7C1D-4EA7-866C-98E24A890B5B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -45,6 +47,14 @@ Global
 		{268FCAD9-F63C-4002-BBCB-EE894A319ECE}.Release|x64.Build.0 = Release|x64
 		{268FCAD9-F63C-4002-BBCB-EE894A319ECE}.Release|x86.ActiveCfg = Release|Win32
 		{268FCAD9-F63C-4002-BBCB-EE894A319ECE}.Release|x86.Build.0 = Release|Win32
+		{76FB5F06-7C1D-4EA7-866C-98E24A890B5B}.Debug|x64.ActiveCfg = Debug|x64
+		{76FB5F06-7C1D-4EA7-866C-98E24A890B5B}.Debug|x64.Build.0 = Debug|x64
+		{76FB5F06-7C1D-4EA7-866C-98E24A890B5B}.Debug|x86.ActiveCfg = Debug|Win32
+		{76FB5F06-7C1D-4EA7-866C-98E24A890B5B}.Debug|x86.Build.0 = Debug|Win32
+		{76FB5F06-7C1D-4EA7-866C-98E24A890B5B}.Release|x64.ActiveCfg = Release|x64
+		{76FB5F06-7C1D-4EA7-866C-98E24A890B5B}.Release|x64.Build.0 = Release|x64
+		{76FB5F06-7C1D-4EA7-866C-98E24A890B5B}.Release|x86.ActiveCfg = Release|Win32
+		{76FB5F06-7C1D-4EA7-866C-98E24A890B5B}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -53,6 +63,7 @@ Global
 		{60DD0112-F2A2-446F-A3ED-0179629FBEFE} = {691F52D3-B176-403F-9389-1CB707A4F41C}
 		{1183E14B-EE5E-4751-8981-73FB5CCE0FC3} = {4A8D5E49-644F-41CD-B9FE-B6468371F9B1}
 		{268FCAD9-F63C-4002-BBCB-EE894A319ECE} = {4A8D5E49-644F-41CD-B9FE-B6468371F9B1}
+		{76FB5F06-7C1D-4EA7-866C-98E24A890B5B} = {4A8D5E49-644F-41CD-B9FE-B6468371F9B1}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {FBEEA381-CDFF-49AE-A22E-CA30B2498C24}
